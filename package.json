@@ -40,7 +40,7 @@
     "karma-requirejs": "^1.1.0",
     "lodash.assign": "^4.2.0",
     "merge-stream": "^1.0.1",
-    "run-sequence": "^1.2.2",
+    "run-sequence": "^2.2.1",
     "through2": "^2.0.3"
   },
   "scripts": {
